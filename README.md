@@ -1,1 +1,2 @@
 # GLOBAL-ENERGY-TRENDS-A-COMPREHENSIVE-ANALYSIS-OF-KEY-REGIONS-AND-GENERATION-MODES-USING-POWER-BI
+This project provides an insightful analysis of global energy consumption trends across various regions and energy generation modes. Using Power BI, it visualizes data from 1990 to 2020, enabling users to explore patterns through interactive filters for year, country, and continent. The dashboard highlights key insights on renewable and non-renewable energy usage, helping users understand evolving energy dynamics.
